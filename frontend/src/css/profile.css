@@ -1,0 +1,31 @@
+.photo-container {
+    width: 123px;
+    height: 123px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 0 auto;
+    box-shadow: 0 10px 25px 0 rgb(0 0 0 / 30%);
+}
+.photo-img {
+    max-width: 100%;
+    border-radius: 1px;
+}
+.title{
+    font-weight: 700;
+    padding-top: 10px;
+    text-align: center;
+}
+.title-span {
+    font-size: 1.825em;
+    line-height: 1.4em;
+}
+.email {
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 700;
+    color: #9a9a9a;
+}
+.social-description {
+    text-align: center;
+    position: relative;
+}

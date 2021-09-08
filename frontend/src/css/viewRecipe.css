@@ -1,0 +1,23 @@
+.image_container {
+    width: 240px;
+    height: 200px;
+}
+.recipe_name {
+    font-size: 34px;
+    margin: 0 0 16px;
+    line-height: 1.2;
+    font-weight: 700;
+    word-break: break-all;
+    /* color: #3F51B5; */
+}
+.recipe_subtitle {
+    font-size: 1.3rem;
+    font-family: Helvetica;
+    color: #C3B385;
+}
+.recipe_contains {
+    color: #000;
+    font-size: 1rem;
+    font-family: Georgia;
+    
+}
