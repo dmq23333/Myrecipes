@@ -1,8 +1,4 @@
-This is group OnePiece, Our project has uploaded into our team's github classroom account too.
-And the link is 
-https://github.com/COMP3900-9900-Capstone-Project/capstoneproject-comp9900-w18a-onepiece/blob/main/OnepieceFinalSoftwareQuality.zip
-
-How to run our system on vlab?
+How to run this system on vlab?
 
 -1. start backend server:
 
